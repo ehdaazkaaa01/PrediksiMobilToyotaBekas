@@ -1,0 +1,3 @@
+
+# === KODE APP DI SINI (copy dari atas app.py final kamu) ===
+# ... potong agar tidak kepanjangan di sini ...
